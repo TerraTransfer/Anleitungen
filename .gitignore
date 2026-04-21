@@ -1,0 +1,22 @@
+# BLX-App-spezifische Anleitungen liegen in separatem Repo (TerraTransfer/BLX-App)
+BLX-App/
+TerraTransfer_BLX-Dashboard_Bedienungsanleitung_DE.*
+
+# Nicht-TerraTransfer-Material (joembedded/LTX-Referenzen, Legacy)
+LTX_AlarmeDE_V1*.pdf
+LTX_BLE_overview.pdf
+LTX_Cloud_V1.pdf
+LTX_PushPull*.pdf
+LTX_Server_Get.pdf
+Bedienungsanleitung_v2.13.0*.pdf
+
+# Office-Lockfiles und Temp-Dateien
+.~lock.*
+~$*
+*.tmp
+lu*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
