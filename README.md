@@ -1,8 +1,6 @@
 # TerraTransfer Anleitungen
 
-Allgemeine Bedienungsanleitungen für TerraTransfer-Produkte (Datenlogger, Software, Sensoren).
-
-BLX-App-spezifische Anleitungen liegen in einem eigenen Repository.
+Bedienungsanleitungen für TerraTransfer-Produkte (Datenlogger, Software, Apps).
 
 ## Struktur
 
@@ -10,6 +8,9 @@ Pro Produkt ein Unterordner:
 
 - `Aquatos-Web-LTX/` — Bedienungsanleitung für den Aquatos Web LTX Datenlogger
 - `Sensormanager/` — Bedienungsanleitung für die Sensormanager-Software
+- `BLX-App/` — Bedienungsanleitung für das BLX-Dashboard (Web-Bluetooth-Tool)
+
+Der BLX-App-**Quellcode** liegt in einem separaten Entwicklungs-Repo (`TerraTransfer/BLX-App`); hier ist nur die Anleitung.
 
 ## Format
 
